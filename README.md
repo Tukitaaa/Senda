@@ -1,6 +1,6 @@
 # Senda
 
-Asistente de misiones para **World of Warcraft: Legion 7.3.5** (probado en Tauri WoW).
+Asistente de misiones para **World of Warcraft: Legion 7.3.5** (cliente 7.3.5).
 Marca en el mapa y en el minimapa quién da misiones (!), dónde se entregan (?)
 y dónde están los objetivos, de nivel 1 a 110.
 
@@ -8,7 +8,7 @@ y dónde están los objetivos, de nivel 1 a 110.
 
 ## Descargar e instalar
 
-1. Baja **[Senda-0.11.0-addon.zip](https://github.com/Tukitaaa/Senda/raw/main/descargas/Senda-0.11.0-addon.zip)**.
+1. Baja **[Senda-0.11.1-addon.zip](https://github.com/Tukitaaa/Senda/raw/main/descargas/Senda-0.11.1-addon.zip)**.
 2. Descomprímelo en `World of Warcraft\Interface\AddOns\` (debe quedar la carpeta `AddOns\Senda`).
 3. Si el juego estaba abierto, ciérralo del todo y vuelve a abrirlo.
 
@@ -38,7 +38,16 @@ Senda aprende mientras juegas: quién da cada misión, dónde se entrega y qué
 bichos sirven. Si [mandas tu archivo de datos](../../issues/new?template=aporte.yml),
 lo que aprendió tu addon llega a todos en la siguiente versión.
 
+Senda también comparte en vivo lo que aprende (solo posiciones de PNJ, objetos
+y misiones, nada personal) con otros jugadores que usan Senda. Se apaga en el
+panel de opciones o con `/senda compartir`.
+
 ## Licencia
 
 (c) 2026 Tzors. Todos los derechos reservados. Puedes usar Senda en tu juego,
 pero no copiarlo, modificarlo ni publicarlo sin permiso. Detalles en [LICENSE](LICENSE).
+
+Los datos de misiones (carpeta `Data/Zones` del addon) vienen de
+[TrinityCore](https://www.trinitycore.org) y mantienen su licencia GNU GPL v2.
+World of Warcraft es una marca de Blizzard Entertainment, Inc. Senda no está
+afiliado ni respaldado por Blizzard.

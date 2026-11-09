@@ -23,3 +23,10 @@ body:
     id: zonas
     attributes:
       label: ¿Por qué zonas jugaste? (opcional)
+  - type: checkboxes
+    id: permiso
+    attributes:
+      label: Permiso
+      options:
+        - label: Acepto que los datos de mi archivo (posiciones de PNJ, objetos y misiones) se incluyan en Senda y se distribuyan con el addon.
+          required: true
