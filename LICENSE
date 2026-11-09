@@ -2,7 +2,7 @@ Senda - asistente de misiones para World of Warcraft: Legion 7.3.5
 Copyright (c) 2026 Tzors. Todos los derechos reservados.
 
 El código de Senda (archivos .lua, .xml y .toc de la carpeta Senda/, salvo
-Senda/Data/Zones/), las herramientas de la carpeta tools/, las pruebas de la
+Senda/Data/Zones/ y Senda/Data/Names_*.lua), las herramientas de la carpeta tools/, las pruebas de la
 carpeta tests/ y las imágenes de Senda/Textures/ son propiedad de su autor.
 
 Se permite:
