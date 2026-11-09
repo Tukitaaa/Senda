@@ -1,0 +1,25 @@
+name: Enviar mis datos
+description: Manda lo que aprendió tu Senda para que llegue a todos en la próxima versión.
+title: "Aporte de datos"
+labels: ["aporte"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Cómo encontrar tu archivo**
+        1. Sal del juego (o escribe `/reload`) para que se guarde.
+        2. Ve a la carpeta de tu WoW: `WTF\Account\<TU CUENTA>\SavedVariables\`
+        3. Busca el archivo **Senda.lua** (no `Senda.lua.bak`).
+        4. Comprímelo en un **.zip** (clic derecho > Enviar a > Carpeta comprimida).
+        5. Arrastra el .zip al cuadro de abajo.
+  - type: textarea
+    id: archivo
+    attributes:
+      label: Tu archivo Senda.lua (en .zip)
+      description: Arrastra aquí el .zip.
+    validations:
+      required: true
+  - type: input
+    id: zonas
+    attributes:
+      label: ¿Por qué zonas jugaste? (opcional)

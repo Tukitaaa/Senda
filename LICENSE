@@ -1,0 +1,23 @@
+Senda - asistente de misiones para World of Warcraft: Legion 7.3.5
+Copyright (c) 2026 Tzors. Todos los derechos reservados.
+
+El código de Senda (archivos .lua, .xml y .toc de la carpeta Senda/, salvo
+Senda/Data/Zones/), las herramientas de la carpeta tools/, las pruebas de la
+carpeta tests/ y las imágenes de Senda/Textures/ son propiedad de su autor.
+
+Se permite:
+  * Descargar Senda y usarlo en tu propio juego.
+  * Enviar tus datos de juego (archivo Senda.lua) para mejorar el addon.
+
+No se permite, sin permiso por escrito del autor:
+  * Copiar, modificar o redistribuir el código, las herramientas o las imágenes,
+    en todo o en parte.
+  * Publicar Senda, o un addon basado en él, con otro nombre o como propio.
+  * Venderlo o incluirlo en otro producto.
+
+Datos de terceros: los archivos de Senda/Data/Zones/ se generan a partir de la
+base de datos de TrinityCore (https://www.trinitycore.org), distribuida bajo
+la licencia GNU GPL v2. Esos datos conservan su licencia original.
+
+World of Warcraft es una marca de Blizzard Entertainment, Inc. Senda no está
+afiliado ni respaldado por Blizzard Entertainment.
