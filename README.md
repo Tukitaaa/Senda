@@ -19,8 +19,9 @@ y dónde están los objetivos, de nivel 1 a 110.
 | `/senda` | Activa o desactiva los pines |
 | `/senda disponibles`, `entregas`, `objetivos` | Muestra u oculta cada tipo de pin |
 | `/senda grises` | Muestra las misiones de nivel bajo |
-| `/senda iconos` | Iconos de objetivo o puntos amarillos |
+| `/senda iconos` | Iconos de Senda o los clásicos |
 | `/senda minimapa` | Pines en el minimapa |
+| `/senda pendientes` | Muestra también el "?" de misiones sin terminar |
 | `/senda compartir` | Compartir lo que aprendes con tu grupo y hermandad |
 | `/senda archivo` | Dónde está tu archivo de datos |
 | `/senda info` | Estado de la base de datos |
