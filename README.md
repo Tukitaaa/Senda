@@ -8,7 +8,7 @@ y dónde están los objetivos, de nivel 1 a 110.
 
 ## Descargar e instalar
 
-1. Baja **[Senda-0.10.4-addon.zip](https://github.com/Tukitaaa/Senda/raw/main/descargas/Senda-0.10.4-addon.zip)**.
+1. Baja **[Senda-0.10.5-addon.zip](https://github.com/Tukitaaa/Senda/raw/main/descargas/Senda-0.10.5-addon.zip)**.
 2. Descomprímelo en `World of Warcraft\Interface\AddOns\` (debe quedar la carpeta `AddOns\Senda`).
 3. Si el juego estaba abierto, ciérralo del todo y vuelve a abrirlo.
 
