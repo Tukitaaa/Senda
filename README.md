@@ -8,21 +8,27 @@ y dónde están los objetivos, de nivel 1 a 110.
 
 ## Descargar e instalar
 
-1. Baja **[Senda-0.10.5-addon.zip](https://github.com/Tukitaaa/Senda/raw/main/descargas/Senda-0.10.5-addon.zip)**.
+1. Baja **[Senda-0.11.0-addon.zip](https://github.com/Tukitaaa/Senda/raw/main/descargas/Senda-0.11.0-addon.zip)**.
 2. Descomprímelo en `World of Warcraft\Interface\AddOns\` (debe quedar la carpeta `AddOns\Senda`).
 3. Si el juego estaba abierto, ciérralo del todo y vuelve a abrirlo.
+
+## Opciones
+
+Todo se configura desde **Interfaz > Accesorios > Senda** o con el **botón de Senda en el minimapa** (clic izquierdo: opciones, clic derecho: mostrar/ocultar iconos, arrastrar para moverlo).
 
 ## Comandos
 
 | Comando | Qué hace |
 |---|---|
+| `/senda opciones` | Abre el panel de opciones |
+| `/senda boton` | Muestra u oculta el botón del minimapa |
 | `/senda` | Activa o desactiva los pines |
 | `/senda disponibles`, `entregas`, `objetivos` | Muestra u oculta cada tipo de pin |
 | `/senda grises` | Muestra las misiones de nivel bajo |
 | `/senda iconos` | Iconos de Senda o los clásicos |
 | `/senda minimapa` | Pines en el minimapa |
 | `/senda pendientes` | Muestra también el "?" de misiones sin terminar |
-| `/senda compartir` | Compartir lo que aprendes con tu grupo y hermandad |
+| `/senda compartir` | Compartir lo que aprendes (grupo, hermandad, amigos y otros con Senda) |
 | `/senda archivo` | Dónde está tu archivo de datos |
 | `/senda info` | Estado de la base de datos |
 
