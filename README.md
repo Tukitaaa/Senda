@@ -2,13 +2,13 @@
 
 Asistente de misiones para **World of Warcraft: Legion 7.3.5** (cliente 7.3.5).
 Marca en el mapa y en el minimapa quién da misiones (!), dónde se entregan (?)
-y dónde están los objetivos, de nivel 1 a 110. En español y en inglés.
+y dónde están los objetivos, de nivel 1 a 110, con una flecha que te guía. En español y en inglés.
 
 ![Iconos de objetivo](docs/iconos.png)
 
 ## Descargar e instalar
 
-1. Baja **[Senda-0.12.0-addon.zip](https://github.com/Tukitaaa/Senda/raw/main/descargas/Senda-0.12.0-addon.zip)**.
+1. Baja **[Senda-0.13.0-addon.zip](https://github.com/Tukitaaa/Senda/raw/main/descargas/Senda-0.13.0-addon.zip)**.
 2. Descomprímelo en `World of Warcraft\Interface\AddOns\` (debe quedar la carpeta `AddOns\Senda`).
 3. Si el juego estaba abierto, ciérralo del todo y vuelve a abrirlo.
 
@@ -27,6 +27,7 @@ Todo se configura desde **Interfaz > Accesorios > Senda** o con el **botón de S
 | `/senda grises` | Muestra las misiones de nivel bajo |
 | `/senda iconos` | Iconos de Senda o los clásicos |
 | `/senda minimapa` | Pines en el minimapa |
+| `/senda flecha` | Flecha guía al objetivo más cercano (clic en un pin para seguirlo) |
 | `/senda pendientes` | Muestra también el "?" de misiones sin terminar |
 | `/senda compartir` | Compartir lo que aprendes (grupo, hermandad, amigos y otros con Senda) |
 | `/senda archivo` | Dónde está tu archivo de datos |
