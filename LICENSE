@@ -1,9 +1,12 @@
 Senda - asistente de misiones para World of Warcraft: Legion 7.3.5
 Copyright (c) 2026 Tzors. Todos los derechos reservados.
 
-El código de Senda (archivos .lua, .xml y .toc de la carpeta Senda/, salvo
-Senda/Data/Zones/ y Senda/Data/Names_*.lua), las herramientas de la carpeta tools/, las pruebas de la
-carpeta tests/ y las imágenes de Senda/Textures/ son propiedad de su autor.
+Senda se reparte en dos carpetas:
+
+  * Senda/        El addon: código, textos e imágenes. Propiedad de su autor.
+  * Senda_Datos/  Los datos de misiones, sacados de TrinityCore. Licencia GPL v2.
+
+1) Carpeta Senda/ (y las herramientas de tools/ y las pruebas de tests/)
 
 Se permite:
   * Descargar Senda y usarlo en tu propio juego.
@@ -15,9 +18,23 @@ No se permite, sin permiso por escrito del autor:
   * Publicar Senda, o un addon basado en él, con otro nombre o como propio.
   * Venderlo o incluirlo en otro producto.
 
-Datos de terceros: los archivos de Senda/Data/Zones/ se generan a partir de la
-base de datos de TrinityCore (https://www.trinitycore.org), distribuida bajo
-la licencia GNU GPL v2. Esos datos conservan su licencia original.
+Las imágenes de Senda/Textures/ son originales, creadas para Senda. Los demás
+gráficos que se ven en el juego son del propio cliente y no se incluyen.
+
+Datos aportados por jugadores (Senda/Data/Community.lua): quien envía su
+archivo Senda.lua autoriza a incluir esos datos en Senda y distribuirlos.
+
+2) Carpeta Senda_Datos/
+
+Datos generados a partir de la base de datos de TrinityCore (Copyright (C)
+2008+ TrinityCore, https://www.trinitycore.org), distribuida bajo la licencia
+GNU GPL v2. Es un addon aparte, con su propia licencia GPL v2: puedes copiarlo,
+modificarlo y redistribuirlo bajo esos términos (ver Senda_Datos/LEEME.txt y
+Senda_Datos/LICENSE-GPL2.txt). Los "derechos reservados" de arriba NO se
+aplican a esa carpeta.
 
 World of Warcraft es una marca de Blizzard Entertainment, Inc. Senda no está
-afiliado ni respaldado por Blizzard Entertainment.
+afiliado ni respaldado por Blizzard Entertainment. Los nombres de misiones,
+personajes y zonas pertenecen a Blizzard Entertainment, Inc.
+
+Senda es gratuito y se ofrece "tal cual", sin garantías de ningún tipo.

@@ -8,8 +8,8 @@ y dónde están los objetivos, de nivel 1 a 110, con una flecha que te guía. En
 
 ## Descargar e instalar
 
-1. Baja **[Senda-0.13.0-addon.zip](https://github.com/Tukitaaa/Senda/raw/main/descargas/Senda-0.13.0-addon.zip)**.
-2. Descomprímelo en `World of Warcraft\Interface\AddOns\` (debe quedar la carpeta `AddOns\Senda`).
+1. Baja **[Senda-0.14.0-addon.zip](https://github.com/Tukitaaa/Senda/raw/main/descargas/Senda-0.14.0-addon.zip)**.
+2. Descomprímelo en `World of Warcraft\Interface\AddOns\`. Deben quedar **dos carpetas**: `AddOns\Senda` (el addon) y `AddOns\Senda_Datos` (los datos de misiones). Si tenías una versión vieja, puedes borrar la carpeta `AddOns\Senda\Data\Zones`, ya no se usa.
 3. Si el juego estaba abierto, ciérralo del todo y vuelve a abrirlo.
 
 ## Opciones
@@ -28,6 +28,7 @@ Todo se configura desde **Interfaz > Accesorios > Senda** o con el **botón de S
 | `/senda iconos` | Iconos de Senda o los clásicos |
 | `/senda minimapa` | Pines en el minimapa |
 | `/senda flecha` | Flecha guía al objetivo más cercano (clic en un pin para seguirlo) |
+| `/senda juego` | Oculta o muestra los iconos de misiones del propio juego |
 | `/senda pendientes` | Muestra también el "?" de misiones sin terminar |
 | `/senda compartir` | Compartir lo que aprendes (grupo, hermandad, amigos y otros con Senda) |
 | `/senda archivo` | Dónde está tu archivo de datos |
@@ -48,7 +49,7 @@ panel de opciones o con `/senda compartir`.
 (c) 2026 Tzors. Todos los derechos reservados. Puedes usar Senda en tu juego,
 pero no copiarlo, modificarlo ni publicarlo sin permiso. Detalles en [LICENSE](LICENSE).
 
-Los datos de misiones (carpeta `Data/Zones` del addon) vienen de
-[TrinityCore](https://www.trinitycore.org) y mantienen su licencia GNU GPL v2.
+Los datos de misiones (carpeta `Senda_Datos`, un addon aparte) vienen de
+[TrinityCore](https://www.trinitycore.org) y tienen licencia GNU GPL v2.
 World of Warcraft es una marca de Blizzard Entertainment, Inc. Senda no está
 afiliado ni respaldado por Blizzard.
